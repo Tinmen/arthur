@@ -1,0 +1,9 @@
+# A Man, a Box, and a Machine
+
+Take a man and remove from him any human language. List out what happens if you put that man in a box with a machine of some function. Remove the ability to harm himself, and provide that all needs are taken care for him. The man now has as long as he wants to figure out how the machine works. This is of course possible because he could try things on the machine with no risk of injury. After some period of time the man has figured out how to use the machine. We then take the man out of the box and ask him how does it work. He will actually be unable to tell us because there is no shared language. Without being able to go in show us there is no way for us to know what it is because it can't be communicated. He would need to learn the language of the researchers before he could communicate what he knows.
+
+Propose this is the case of current A.I. until we figure out how to teach it our language it doesn't matter how complicated a problem it solves if it can't communicate the answer with us. Further, it matters less what its' internal language is because it can translate what it knows into our language.
+
+Possible Implications
+
+Meaning a machine is less bound to have to do things like we do. It could theoretically have series of related binary sequences totally unknown to us, create it's own operating system that is faster and more efficent for its' own use case, create it's own internal programming language, or could be used to ask a quantum machine how it did it what it did (because we can't see how it did it or ruins the calculation). The less we can see the more oppertunity there is for miscommunication due to the imperfect nature of language, but in certain cases this is less of a requirement.
